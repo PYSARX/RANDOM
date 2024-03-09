@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h3 style="color: rgb(0, 0, 0);">
+          <span style="color: rgb(62, 68, 241);">Web</span>Studio
+          <nav>
+            <ul>
+              <li><a href="http://127.0.0.1:5500/index.html">Студія</a></li>
+              <li><a href="http://127.0.0.1:5500/2index.html">Портфоліо</a></li>
+              <li><a href="./index.html">Студія</a></li>
+              <li><a href="./2index.html">Портфоліо</a></li>
+              <li><a href="#">Контакти</a></li>
+              <li><a href="#" type="email">info@devstudio.com</a></li>
+              <li><a href="#" type="tel">+38 096 111 11 11</a></li>
+            </ul>
+          </nav>
+      </header>
+    <main>
+        <ul>
+            <li><button type="submit">Усі</button></li>
+            <li><button type="submit">Веб-сайти</button></li>
+            <li><button type="submit">Додатки</button></li>
+            <li><button type="submit">Дизайн</button></li>
+            <li><button type="submit">Маркетинг</button></li>
+        </ul>
+        <ul>
+            <li>
+                <img src="./images/all_1.jpg" alt="1">
+                <img src="./images/partfolio.html/all_1.jpg" alt="1">
+                <p>Технокряк<br>
+                    Веб-сайт</p>
+            </li>
+            <li>
+                <img src="./images/all_2.jpg" alt="2">
+                <img src="./images/partfolio.html/all_2.jpg" alt="2">
+                <p>Постер New Orlean vs Golden Star <br>
+                    Дизайн</p>
+            </li>
+            <li>
+                <img src="./images/all_3.jpg" alt="3">
+                <img src="./images/partfolio.html/all_3.jpg" alt="3">
+                <p>Ресторан Seafood <br>
+                    Додаток</p>
+            </li>
+            <li>
+                <img src="./images/all_4.jpg" alt="4">
+                <img src="./images/partfolio.html/all_4.jpg" alt="4">
+                <p>Проєкт Prime <br>
+                    Маркетинг</p>
+            </li>
+            <li>
+                <img src="./images/all_5.jpg" alt="5">
+                <img src="./images/partfolio.html/all_5.jpg" alt="5">
+                <p>Проєкт Boxes <br>
+                    Додаток</p>
+            </li>
+            <li>
+                <img src="./images/all_6.jpg" alt="6">
+                <img src="./images/partfolio.html/all_6.jpg" alt="6">
+                <p>Inspiration has no Borders <br>
+                    Веб-сайт</p>
+            </li>
+            <li>
+                <img src="./images/all_7.jpg" alt="7">
+                <img src="./images/partfolio.html/all_7.jpg" alt="7">
+                <p>Видання Limited Edition <br>
+                    Дизайн</p>
+            </li>
+            <li>
+                <img src="./images/all_8.jpg" alt="8">
+                <img src="./images/partfolio.html/all_8.jpg" alt="8">
+                <p>Проєкт LAB <br>
+                    Маркетинг</p>
+            </li>
+            <li>
+                <img src="./images/all_9.jpg" alt="9">
+                <img src="./images/partfolio.html/all_9.jpg" alt="9">
+                <p>Growing Business <br>
+                    Додаток</p>
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <h3 style="color: rgb(0, 0, 0);">
+          <span style="color: rgb(62, 68, 241);">Web</span>Studio
+      </h3>
+        <p style="color: rgb(0, 0, 0);">м. Київ, пр-т Лесі Українки, 26</p>
+        <a href="#" style="color: rgb(0, 0, 0);" >info@devstudio.com</a>
+        <a href="#" style="color: rgb(0, 0, 0);" >+38 096 111 11 11</a>
+      </footer>
+</body>
+</html>
+ Binary file removedBIN -81.8 KB 
+images/Blog/blog_1.jpg
+Binary file not shown.
+ Binary file removedBIN -83 KB 
+images/Blog/blog_2.jpg
+Binary file not shown.
+ Binary file removedBIN -39.3 KB 
+images/Blog/blog_3.jpg
+Binary file not shown.
+ Binary file removedBIN -71 KB 
+images/Blog/blog_4.jpg
+Binary file not shown.
+ Binary file removedBIN -90.5 KB 
+images/Blog/blog_5.jpg
+Binary file not shown.
+ Binary file removedBIN -95.3 KB 
+images/Blog/blog_6.jpg
+Binary file not shown.
+ 0  
+images/Doings/doings_1.jpg → images/main/Doings/doings_1.jpg
+File renamed without changes
+ 0  
+images/Doings/doings_2.jpg → images/main/Doings/doings_2.jpg
+File renamed without changes
+ 0  
+images/Doings/doings_3.jpg → images/main/Doings/doings_3.jpg
+File renamed without changes
+ 0  
+images/Doings/Team/team_1.jpg → images/main/Team/team_1.jpg
+File renamed without changes
+ 0  
+images/Doings/Team/team_2.jpg → images/main/Team/team_2.jpg
+File renamed without changes
+ 0  
+images/Doings/Team/team_3.jpg → images/main/Team/team_3.jpg
+File renamed without changes
+ 0  
+images/Doings/Team/team_4.jpg → images/main/Team/team_4.jpg
+File renamed without changes
+ 0  
+images/all_1.jpg → images/partfolio.html/all_1.jpg
+File renamed without changes
+ 0  
+images/all_2.jpg → images/partfolio.html/all_2.jpg
+File renamed without changes
+ 0  
+images/all_3.jpg → images/partfolio.html/all_3.jpg
+File renamed without changes
+ 0  
+images/all_4.jpg → images/partfolio.html/all_4.jpg
+File renamed without changes
+ 0  
+images/all_5.jpg → images/partfolio.html/all_5.jpg
+File renamed without changes
+ 0  
+images/all_6.jpg → images/partfolio.html/all_6.jpg
+File renamed without changes
+ 0  
+images/all_7.jpg → images/partfolio.html/all_7.jpg
+File renamed without changes
+ 0  
+images/all_8.jpg → images/partfolio.html/all_8.jpg
+File renamed without changes
+ 0  
+images/all_9.jpg → images/partfolio.html/all_9.jpg
+File renamed without changes
+  18 changes: 9 additions & 9 deletions18  
+index.html
+@@ -11,8 +11,8 @@ <h3 style="color: rgb(0, 0, 0);">
+          <span style="color: rgb(62, 68, 241);">Web</span>Studio
+          <nav>
+            <ul>
+              <li><a href="http://127.0.0.1:5500/index.html">Студія</a></li>
+              <li><a href="http://127.0.0.1:5500/2index.html">Портфоліо</a></li>
+              <li><a href="./index.html">Студія</a></li>
+              <li><a href="./2index.html">Портфоліо</a></li>
+              <li><a href="#">Контакти</a></li>
+              <li><a href="mailto:info@devstudio.com">info@devstudio.com</a></li>
+              <li><a href="tel:+380961111111">+38 096 111 11 11</a>
+@@ -52,28 +52,28 @@ <h2>Чим ми займаємося</h2>
+            </li>
+          </ul>
+          <ul>
+            <li><img src="./images/doings/doings_1.jpg" alt="1">
+            <li><img src="./images/doings/doings_2.jpg" alt="2">
+            <li><img src="./images/doings/doings_3.jpg" alt="3">
+            <li><img src="./images/main/Doings/doings_1.jpg" alt="1">
+            <li><img src="./images/main/Doings/doings_2.jpg" alt="2">
+            <li><img src="./images/main/Doings/doings_3.jpg" alt="3">
+          </ul>
+        </section>
+
+        <section id="Наша команда">
+
+          <h2>Наша команда</h2>
+          <ul>
+            <li><img src="./images/Team/team_1.jpg" alt="1">
+            <li><img src="./images/main/Team/team_1.jpg" alt="1">
+              <p><strong>Ігор Дем'яненко</strong><br>
+                Product Designer
+              </p></li>
+            <li><img src="./images/Team/team_2.jpg" alt="2">
+            <li><img src="./images/main/Team/team_2.jpg" alt="2">
+              <p><strong>Ольга Рєпіна</strong><br>
+                Frontend Developer
+              </p></li>
+            <li><img src="./images/Team/team_3.jpg" alt="3">
+            <li><img src="./images/main/Team/team_3.jpg" alt="3">
+              <p><strong>Микола Тарасов</strong><br>
+                Marketing</p></li>
+            <li><img src="./images/Team/team_4.jpg" alt="4">
+            <li><img src="./images/main/Team/team_4.jpg" alt="4">
+              <p><strong>Михайло Єрмаков</strong><br>
+                UI Designer
+              </p></li>
